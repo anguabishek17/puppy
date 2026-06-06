@@ -4,40 +4,40 @@ UNO MINDA ERP Portal – Machine Instruction & Compliance System
 UNO MINDA ERP Portal is a web-based Machine Instruction & Compliance Management System designed to streamline industrial operations, machine instruction handling, employee acknowledgements, compliance tracking, and reporting. The platform provides role-based access for administrators, supervisors, and employees, ensuring secure and efficient management of manufacturing instructions and operational compliance.
 
 🚀 Features
-🔐 Authentication & Authorization
+1.🔐 Authentication & Authorization
 Secure user login system
 Role-based access control
 JWT authentication
 Session management
-📄 Machine Instruction Management
+2.📄 Machine Instruction Management
 Create machine instructions
 Update and manage instructions
 Upload supporting documents
 Version tracking
-🏭 Production Line Management
+3.🏭 Production Line Management
 Manage production lines
 Assign instructions to specific lines
 Track machine-wise documentation
-👨‍🏭 Employee Compliance Tracking
+4.👨‍🏭 Employee Compliance Tracking
 Employee acknowledgement system
 Compliance monitoring
 Instruction completion tracking
 Status reporting
-📊 Analytics Dashboard
+5.📊 Analytics Dashboard
 Real-time statistics
 Compliance metrics
 Instruction completion analysis
 Performance insights
-🤖 AI Integration
+6.🤖 AI Integration
 AI-assisted instruction support
 Intelligent content analysis
 Automated recommendations
-📈 Reports & Monitoring
+7.📈 Reports & Monitoring
 Compliance reports
 User activity reports
 Machine instruction reports
 Downloadable analytics
-🛠️ Technology Stack
+8. Technology Stack
 Frontend
 React.js
 TypeScript
@@ -58,25 +58,8 @@ Frontend: Vercel
 Backend: Render
 Database: Neon
 📂 Project Structure
-UNOMINDA/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── components/
-│
-├── backend/
-│   ├── src/
-│   │   ├── controllers/
-│   │   ├── routes/
-│   │   ├── middleware/
-│   │   ├── services/
-│   │   └── config/
-│   │
-│   ├── prisma/
-│   └── uploads/
-│
-└── README.md
+<img width="847" height="545" alt="image" src="https://github.com/user-attachments/assets/d4f0b8fa-f9f8-4bf1-bff8-f30128862cbd" />
+
 ⚙️ Installation
 Clone Repository
 git clone https://github.com/yourusername/UNOMINDA.git
