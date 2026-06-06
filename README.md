@@ -5,15 +5,15 @@ UNO MINDA ERP Portal is a web-based Machine Instruction & Compliance Management 
 
 🚀 Features
 1.🔐 Authentication & Authorization
-Secure user login system
-Role-based access control
-JWT authentication
-Session management
+-Secure user login system
+-Role-based access control
+-JWT authentication
+-Session management
 2.📄 Machine Instruction Management
-Create machine instructions
-Update and manage instructions
-Upload supporting documents
-Version tracking
+-Create machine instructions
+-Update and manage instructions
+-Upload supporting documents
+-Version tracking
 3.🏭 Production Line Management
 Manage production lines
 Assign instructions to specific lines
